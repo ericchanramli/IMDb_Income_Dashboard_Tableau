@@ -10,4 +10,4 @@ Analisis terhadap sebuah film untuk menentukan dasar apa yang jadi cikal bakal p
 
 
 ## 📌 Deskripsi Proyek
-Proyek ini adalah proyek personal dengan menggunakan dataset dari web Kaggle, yang dimana berisikan **IMDb** 
+Proyek ini adalah proyek personal dengan menggunakan dataset dari web Kaggle, yang dimana berisikan **IMDb** web kraggel.
